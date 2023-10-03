@@ -9,3 +9,9 @@ This repository is a clone of the original repository available at [this link](h
 ## Activity 3:
 
 ![Alt text](image-8.png)
+
+## Activity 4:
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
